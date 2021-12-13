@@ -1,6 +1,4 @@
-Rails.application.routes.draw do
-  root to: 'greetings#index'
-  
-  resources :greetings
+Rails.application.routes.draw do 
+  resources :greetings, only: [:index]
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
