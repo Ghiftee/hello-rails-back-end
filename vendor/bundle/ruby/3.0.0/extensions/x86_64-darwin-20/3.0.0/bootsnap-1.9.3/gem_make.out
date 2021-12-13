@@ -1,0 +1,15 @@
+current directory: /Users/gigib1/Desktop/Coding_stuff/Microverse_2.0/Final-Capstone/Exercises/hello-rails-back-end/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+/Users/gigib1/.rvm/rubies/ruby-3.0.2/bin/ruby -I /Users/gigib1/.rvm/rubies/ruby-3.0.2/lib/ruby/site_ruby/3.0.0 -r ./siteconf20211213-8124-t1akqd.rb extconf.rb
+creating Makefile
+
+current directory: /Users/gigib1/Desktop/Coding_stuff/Microverse_2.0/Final-Capstone/Exercises/hello-rails-back-end/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/gigib1/Desktop/Coding_stuff/Microverse_2.0/Final-Capstone/Exercises/hello-rails-back-end/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/gigib1/Desktop/Coding_stuff/Microverse_2.0/Final-Capstone/Exercises/hello-rails-back-end/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20211213-8124-qb9gmd/bootsnap
